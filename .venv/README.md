@@ -1,4 +1,4 @@
-# python-pusher-chat-widget
+# Python-pusher-chat-widget
 This is a demo of a real-time chat widget powered by [Python](https://www.python.org/) and [Pusher](https://pusher.com/) Channels. 
 
 ## Getting Started
