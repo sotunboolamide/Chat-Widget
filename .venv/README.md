@@ -1,5 +1,5 @@
 # python-pusher-chat-widget
-This is a demo of a real-time chat widget powered by [Python](https://www.python.org/) and [Pusher](https://pusher.com/) Channels. You can read about how it was created on [Pusher's blog](https://pusher.com/tutorials/chat-widget-python).
+This is a demo of a real-time chat widget powered by [Python](https://www.python.org/) and [Pusher](https://pusher.com/) Channels. 
 
 ## Getting Started
 
@@ -23,10 +23,7 @@ After cloning the application, you need to install its dependencies.
 
 ``` $ sudo pip install flask pusher flask-cors```
 
-## Setup
-
-* To set the application in development environment, run the following code
-``` $ export FLASK_ENV=development```
+`
 
 ## Run the application
  
